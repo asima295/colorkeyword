@@ -1,0 +1,130 @@
+.d4{
+    overflow: auto;
+    position: fixed;
+    right: 8px;
+    height: 682px;
+    width: 78%;
+}
+#d4d1{
+    padding:  10px 30px;
+}
+#d4b1{
+    font-size: 19px;
+    padding: 12px;
+    background-color: rgb(88, 197, 121);
+    color: white;
+    border: none;
+    border-radius: 6px;
+}
+#d4d1>h1{
+    font-weight: 500;
+    font-size: 40px;
+}
+#d4b1:hover,#d4b2:hover,#d4b3:hover{
+    background-color: rgb(8, 143, 69);
+}
+#d4b2{
+    font-size: 19px;
+    padding: 12px;
+    background-color: rgb(88, 197, 121);
+    color: white;
+    border: none;
+    border-radius: 6px;
+    float: right;
+}
+hr{
+    margin-top: 20px;
+    width: 97%;
+}
+#sp1{
+    color: blue;
+}
+#sp2{
+    color: brown;
+}
+#sp3{
+    color: red;
+}
+#sp4{
+    color: green;
+}
+.d4d2{
+    padding: 30px;
+}
+h1 , h2{
+    font-weight: 500;
+}
+.d4d2>h1{
+    font-weight: 500;
+}
+.d4d2>p{
+    font-size: 19px;
+}
+.d4d2>p>span{
+    color: brown;
+    background-color: azure;
+}
+#d4d3{
+    border-radius: 6px;
+    margin: 15px;
+    padding: 30px 15px;
+    background-color: rgba(161, 161, 161, 0.555);
+}
+.d4d3{
+    background-color: white;
+    padding: 2px 5px;
+    margin-bottom: 30px;
+    border-left: 4px solid green;
+}
+#d4b3{
+    text-decoration: none;
+    margin-top: 50px;
+    font-size: 19px;
+    padding: 12px;
+    background-color: rgba(15, 194, 45, 0.863);
+    color: white;
+    border-radius: 6px;
+}
+#d4d3>p>span{
+    color: red;
+    background-color: azure;
+}
+#d4d4{
+    background-color: rgba(255, 255, 0, 0.171);
+    padding: 20px 30px;
+}
+#d4d4>p>span{
+    color: brown;
+    background-color: azure;
+}
+li{
+    font-size: 22px;
+}
+li>span{
+    color: brown;
+    background-color: azure;
+}
+#d4d5{
+    background-color: rgba(44, 243, 144, 0.329);
+    padding: 30px;
+}
+#d4d5>p>span{
+    background-color: azure;
+    color: brown;
+}
+.dd44{
+    padding: 30px;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid rgb(185, 184, 184);
+}
+
+td{
+    padding: 7px 1px;
+    margin-right: 50px;
+}
+tr:nth-child(odd){
+    background-color: rgb(212,208,208);
+}
